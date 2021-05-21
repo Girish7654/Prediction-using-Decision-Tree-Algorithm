@@ -1,1 +1,1 @@
-# TASK 6 Prediction using Decision Tree  Algorithm
+# Prediction using Decision Tree  Algorithm
